@@ -1,0 +1,24 @@
+ol{
+    color: brown;
+    line-height: 35px;
+}
+.test{
+    text-decoration: line-through;
+}
+.test2{
+    text-decoration: underline;
+    font-style:italic;
+}
+.test1{
+    background-color: yellow;
+}
+ul{
+    color: brown;
+    letter-spacing: 5px;
+}
+.d{
+    background-color: yellow;
+}
+.ss{
+    color: red;font-style: italic;background-color: yellow;text-decoration: none;
+}
